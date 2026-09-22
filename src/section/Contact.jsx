@@ -31,13 +31,13 @@ const Contact = () => {
             </div>
 
             <div className="flex flex-wrap items-center justify-start gap-4">
-                <a className='hover:-translate-y-2 hover:text-blue-600 transition-all ease-in-out duration-300' href='#'>
+                <a className='hover:-translate-y-2 hover:text-blue-600 transition-all ease-in-out duration-300' href='https://www.linkedin.com/in/ali-chinonso-79572823a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'>
                     <Linkedin className='size-6'/>
                 </a>
-                <a className='hover:-translate-y-2 hover:text-blue-600 transition-all ease-in-out duration-300' href="#">
+                <a className='hover:-translate-y-2 hover:text-blue-600 transition-all ease-in-out duration-300' href="https://www.instagram.com/ali_nonso1?igsh=dHlsejhmNjV3eDk3&utm_source=qr">
                     <Instagram className='size-6'/>
                 </a>
-                <a className='hover:-translate-y-2 hover:text-blue-600 transition-all ease-in-out duration-300' href="">
+                <a className='hover:-translate-y-2 hover:text-blue-600 transition-all ease-in-out duration-300' href="https://x.com/cjohn32997?s=21">
                     <Twitter className='size-6'/>
                 </a>
 

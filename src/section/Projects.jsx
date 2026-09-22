@@ -10,7 +10,7 @@ const Projects = () => {
         <Title 
         title='My' 
         highlight='projects' 
-        subtitle="Here are some of the projects I've worked on."
+        subtitle="Here are some of the projects I've worked on."  
         />
 
         <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-3">
