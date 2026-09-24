@@ -14,7 +14,7 @@ import NonsoImg from '../assets/Nonso2.jpeg';
 import Html from '../assets/html5.svg';
 import Css from '../assets/css.svg';
 import Js from '../assets/javascript.svg';
-import React from '../assets/react.svg';
+import ReactIcon from '../assets/react.svg';
 import TypeScript from '../assets/typescript.svg';
 import Tailwind from '../assets/tailwindcss.svg';
 
@@ -50,7 +50,7 @@ export const projects = [
       'This project is a modern form website with a clean and minimalistic design. The website is built with HTML, CSS and JavaScript features a responsive design, and a user-friendly navigation system.',
     image: Project3,
     stack: ['HTML', 'CSS', 'JavaScript'],
-    liveUrl: 'logo-form.netlify.app/',
+    liveUrl: 'https://logo-form.netlify.app/',
     sourceUrl: 'https://github.com/Chinonso55/',
   },
 
@@ -72,7 +72,7 @@ export const projects = [
       'This project is a single-page space data library website designed with a clean and minimal aesthetic. Built using HTML, CSS, and JavaScript, it features a responsive layout and an intuitive, user-friendly navigation system.',
     image: Project5,
     stack: ['HTML', 'CSS', 'JavaScript'],
-    liveUrl: 'https://the-edge-ledger.netlify.app/',
+    liveUrl: 'https://klod-single-website.netlify.app',
     sourceUrl: 'https://github.com/Chinonso55/',
   },
 
@@ -154,7 +154,7 @@ export const skills = [
   {
     id: 4,
     name: 'React',
-    icon: React,
+    icon: ReactIcon,
   },
 
   {

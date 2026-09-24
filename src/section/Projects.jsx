@@ -41,7 +41,7 @@ const Projects = () => {
                             <p className="font-semibold">Live</p>
                             </a>
 
-                            <a className="text-lg text-white font-semibold rounded-md flex items-center gap-2 capitalize px-4 py-3 bg-gray-600 hover:bg-blue-700 transition-color duration-300 ease-in" href={project.sourceUrl}
+                            <a className="text-lg text-white font-semibold rounded-md flex items-center gap-2 capitalize px-4 py-3 bg-gray-600 hover:bg-blue-700 transition-colors duration-300 ease-in" href={project.sourceUrl}
                             target='_blank'
                             >
                             <Github size={20}/>
