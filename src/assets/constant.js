@@ -1,14 +1,14 @@
 // project images
-import Project1 from '../assets/project_1.png';
-import Project2 from '../assets/project_2.png';
-import Project3 from '../assets/project_3.png';
-import Project4 from '../assets/Project-4.png';
-import Project5 from '../assets/Project-5.png';
-import Project6 from '../assets/Project-6.png';
-import Project9 from '../assets/Project-9.png';
-import Project12 from '../assets/Project-12.png';
-import Project11 from '../assets/Project-11.png';
-import NonsoImg from '../assets/Nonso2.jpeg';
+import Project1 from './project_1.png';
+import Project2 from './project_2.png';
+import Project3 from './project_3.png';
+import Project4 from './project-4.png';
+import Project5 from './project-5.png';
+import Project6 from './project-6.png';
+import Project9 from './project-9.png';
+import Project12 from './project-12.png';
+import Project11 from './project-11.png';
+import NonsoImg from './Nonso2.jpeg';
 
 // skills images
 import Html from '../assets/html5.svg';
