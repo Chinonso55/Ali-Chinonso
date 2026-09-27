@@ -1,7 +1,7 @@
 // project images
-import Project1 from './project_1.png';
-import Project2 from './project_2.png';
-import Project3 from './project_3.png';
+import Project1 from './project-1.png';
+import Project2 from './project-2.png';
+import Project3 from './project-3.png';
 import Project4 from './project-4.png';
 import Project5 from './project-5.png';
 import Project6 from './project-6.png';
