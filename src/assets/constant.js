@@ -11,12 +11,12 @@ import Project11 from './project-11.png';
 import NonsoImg from './Nonso2.jpeg';
 
 // skills images
-import Html from '../assets/html5.svg';
-import Css from '../assets/css.svg';
-import Js from '../assets/javascript.svg';
-import ReactIcon from '../assets/react.svg';
-import TypeScript from '../assets/typescript.svg';
-import Tailwind from '../assets/tailwindcss.svg';
+import Html from './html5.svg';
+import Css from './css.svg';
+import Js from './javascript.svg';
+import ReactIcon from './react.svg';
+import TypeScript from './typescript.svg';
+import Tailwind from './tailwindcss.svg';
 
 
 export const projects = [
